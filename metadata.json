@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Footprint Awareness Platform",
+  "description": "An interactive, full-stack platform for carbon footprint calculation, custom onboarding surveys, gamified achievements, dynamic charts, recommendations, and green diaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
